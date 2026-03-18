@@ -4,6 +4,8 @@
 
 ## Projeto
 
+![.GIF da calculadora em processo](./Calculadora.ConsoleApp/.docs/Calculadora.gif)
+
 Desenvolvido durante o curso Back-End da [Academia do Programador](https://www.academiadoprogramador.net) 2026
 
 ## Introdução
