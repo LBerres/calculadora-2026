@@ -1,5 +1,7 @@
 # Calculadora
 
+![Uma Calculadora que Roda em Terminal](./.docs/Calculadora.gif)
+
 ## Projeto
 
 Desenvolvido durante o curso Back-End da [Academia do Programador](https://www.academiadoprogramador.net) 2026
